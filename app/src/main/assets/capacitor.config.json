@@ -1,0 +1,8 @@
+{
+  "appId": "juan.udla.edu.ec",
+  "appName": "mycameraApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
